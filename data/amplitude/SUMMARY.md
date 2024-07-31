@@ -9,6 +9,7 @@
 * [Chart types](about-amplitude/chart-types.md)
 * [Amplitude UI](about-amplitude/amplitude-ui.md)
 * [FAQ](about-amplitude/faq.md)
+* [Demo doc] (about-amplitude/demo-doc.md)
 
 ## 🏢 Amplitude at GitBook
 
@@ -17,7 +18,6 @@
 * [Multiple source of tracking](amplitude-at-gitbook/multiple-source-of-tracking.md)
 * [Multiple environments](amplitude-at-gitbook/multiple-environments.md)
 * [FAQ](amplitude-at-gitbook/faq.md)
-* [Demo doc] (amplitude-at-gitbook/demo-doc.md)
 
 ## 🤷 HOW TO
 
