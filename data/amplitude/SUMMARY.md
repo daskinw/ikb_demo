@@ -4,7 +4,9 @@
 
 ## ⚙️ About Amplitude
 
-* [Why](about-amplitude/why.md)
+* [Why](about-amplitude/why/README.md)
+  * [Page 1](about-amplitude/why/page-1/README.md)
+    * [Page 2](about-amplitude/why/page-1/page-2.md)
 * [Amplitude concepts](about-amplitude/amplitude-concepts.md)
 * [Chart types](about-amplitude/chart-types.md)
 * [Amplitude UI](about-amplitude/amplitude-ui.md)
