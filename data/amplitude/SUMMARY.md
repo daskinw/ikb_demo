@@ -17,6 +17,7 @@
 * [Multiple source of tracking](amplitude-at-gitbook/multiple-source-of-tracking.md)
 * [Multiple environments](amplitude-at-gitbook/multiple-environments.md)
 * [FAQ](amplitude-at-gitbook/faq.md)
+* [Demo doc] (amplitude-at-gitbook/demo-doc.md)
 
 ## 🤷 HOW TO
 
