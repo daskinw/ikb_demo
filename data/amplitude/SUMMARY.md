@@ -11,6 +11,7 @@
 * [Chart types](about-amplitude/chart-types.md)
 * [Amplitude UI](about-amplitude/amplitude-ui.md)
 * [FAQ](about-amplitude/faq.md)
+* [Hello world!](about-amplitude/hello-world.md)
 
 ## 🏢 Amplitude at GitBook
 
