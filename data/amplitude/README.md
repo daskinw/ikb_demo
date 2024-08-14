@@ -1,5 +1,7 @@
 # 👋 Introduction
 
+{% embed url="https://www.loom.com/share/8ed77a1c08fb4003a493287bc03c7860" %}
+
 This space aims to help anyone wanted to leverage our Amplitude instance:
 
 {% embed url="https://analytics.amplitude.com/gitbook-com" %}
