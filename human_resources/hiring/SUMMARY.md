@@ -8,3 +8,4 @@
 * [Join us!](join-us/README.md)
   * [Senior Backend Engineer](join-us/senior-backend-engineer.md)
   * [Product Engineer](join-us/product-engineer.md)
+* [GitBook Product Docs](https://daskin.gitbook.io/jobs-site/v/fleet)
