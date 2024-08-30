@@ -26,3 +26,7 @@
 * [Event and Cohort references](how-to/event-and-cohort-references.md)
 * [Charts reference](how-to/charts-reference.md)
 * [Exercises](how-to/exercises.md)
+
+***
+
+* [Search](search.md)
