@@ -19,12 +19,12 @@
 * [User & group properties](amplitude-at-gitbook/user-and-group-properties.md)
 * [Multiple source of tracking](amplitude-at-gitbook/multiple-source-of-tracking.md)
 * [Multiple environments](amplitude-at-gitbook/multiple-environments.md)
+* [Event and Cohort references](amplitude-at-gitbook/event-and-cohort-references/README.md)
+  * [Charts reference](amplitude-at-gitbook/event-and-cohort-references/charts-reference.md)
 * [FAQ](amplitude-at-gitbook/faq.md)
 
 ## 🤷 HOW TO
 
-* [Event and Cohort references](how-to/event-and-cohort-references.md)
-* [Charts reference](how-to/charts-reference.md)
 * [Exercises](how-to/exercises.md)
 
 ***
