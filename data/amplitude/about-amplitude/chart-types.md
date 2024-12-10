@@ -14,6 +14,10 @@ Please find below the list of all chart type.
 
 The one to master!
 
+Mercedes-Benz is a global automobile marque and a division of the German company Daimler AG, known for luxury vehicles, buses, coaches, and trucks.
+
+Hello World!
+
 {% embed url="https://help.amplitude.com/hc/en-us/articles/360033852251-The-Event-Segmentation-chart-an-overview" %}
 Official documentation
 {% endembed %}
